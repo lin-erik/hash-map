@@ -11,8 +11,9 @@ For Mac (Mac OS comes with Python 2.7 but we require Python 3):
     - Open Terminal
     - Type in "python3 --version" and hit Enter
 - Run Tests
+    - Download files from repository into Downloads/hashmap or other location
     - Open Terminal
-    - Navigate to where project files are located (eg. "cd Downloads/hasmap" if located in Downloads folder)
+    - Navigate to where project files are located (eg. "cd Downloads/hashmap" if located in Downloads folder)
     - Type in "python3 hash_map_test.py" and hit Enter
 
 For Windows:
@@ -26,6 +27,7 @@ For Windows:
     - Type in "py" and hit Enter
     - If you receive the following error, please repeat the previous step: 'py' is not recognized as an internal or external command, operable program or batch file.
 - Run Tests
+    - Download files from repository into Downloads/hashmap or other location
     - Open Command Prompt
     - Navigate to where project files are located
     - Type in "py hash_map_test.py" and hit Enter
